@@ -1,0 +1,15 @@
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/bin/Debug/net7.0/c-sharp-pyramid
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/bin/Debug/net7.0/c-sharp-pyramid.deps.json
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/bin/Debug/net7.0/c-sharp-pyramid.runtimeconfig.json
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/bin/Debug/net7.0/c-sharp-pyramid.dll
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/bin/Debug/net7.0/c-sharp-pyramid.pdb
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.csproj.AssemblyReference.cache
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.AssemblyInfoInputs.cache
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.AssemblyInfo.cs
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.csproj.CoreCompileInputs.cache
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.dll
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/refint/c-sharp-pyramid.dll
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.pdb
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/c-sharp-pyramid.genruntimeconfig.cache
+/Users/scriptjumper/git/c-sharp-pyramid/c-sharp-pyramid/obj/Debug/net7.0/ref/c-sharp-pyramid.dll
